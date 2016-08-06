@@ -3,6 +3,7 @@ var util = require('util');
 var path = require('path');
 var yeoman = require('yeoman-generator');
 var H5Logo = require('./logo').H5Logo;
+var zklogo = require('console-utils').logo;
 var cc = require('../util/color').cc;
 
 var H5Generator = module.exports = function H5Generator(args, options) {

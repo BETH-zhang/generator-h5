@@ -1,4 +1,5 @@
-var cc = require('../util/color').cc;
+// var cc = require('../util/color').cc;
+var cc = require('console-utils').color;
 
 function H5Logo(contex){
 	var version = '';

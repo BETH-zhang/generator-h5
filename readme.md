@@ -17,3 +17,9 @@ Usage: `yo h5`
 Available generators:
 
 - h5:app
+
+## development
+
+Install: `git clone http://code.com/generator-h5`
+
+Usage: `npm link`
